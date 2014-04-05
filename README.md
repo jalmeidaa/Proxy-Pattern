@@ -7,6 +7,6 @@ Proxy Pattern
 
 Submitted By:
 
-Gehendra kehe
+Gehendra Karmacharya 
 
 Julius Almeida
